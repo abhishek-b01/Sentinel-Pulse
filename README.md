@@ -1,4 +1,4 @@
-# Sentinel Pulse - Open Source Server Monitoring System
+# Sentinel Pulse(Tool) - Open Source Server Monitoring System
 
 A real-time infrastructure monitoring system that continuously monitors your servers' health, performance, and availability. Built with Node.js, Express, MongoDB, and a modern responsive UI.
 
