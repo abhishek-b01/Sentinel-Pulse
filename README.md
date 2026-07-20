@@ -464,4 +464,4 @@ Built with:
 
 **Made with ❤️ for the open source community**
 
-For the latest updates and information, visit the [GitHub repository](https://github.com/yourusername/sentinel-pulse)
+For the latest updates and information, visit the [GitHub repository](https://github.com/abhishek-b01/sentinel-pulse)
